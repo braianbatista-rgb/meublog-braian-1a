@@ -1,0 +1,12 @@
+.cabecalho{
+    background-color:darkblue;
+    color: white;
+    text-align:center;
+    margin:0 auto;
+    max-width: 800px;
+}
+
+.principal{
+    background-color: white;
+    color: darkblue;
+}
